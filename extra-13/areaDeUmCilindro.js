@@ -1,4 +1,4 @@
-//Código para calcular a área de um cilídro
+//Código para calcular a área de um cilindro
 //Programação do Zero Cubos Academy e Ifood
 
 //Para esse código vou considerar pi = 3,14159
